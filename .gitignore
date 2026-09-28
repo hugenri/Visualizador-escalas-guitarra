@@ -1,0 +1,31 @@
+# Caches de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Configuración de IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Distribución y compilación
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pruebas y cobertura de código
+.pytest_cache/
+.coverage
+htmlcov/
